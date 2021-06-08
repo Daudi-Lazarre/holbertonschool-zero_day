@@ -1,0 +1,4 @@
+# This is how a .gitignore file is set up.
+# See https://git-scm.com/docs/gitignore
+
+~/**
